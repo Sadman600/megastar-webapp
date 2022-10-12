@@ -1,0 +1,12 @@
+.card-badge{
+    background-color: red;
+    padding: 4px 8px;
+    border-radius: 0 10px 10px 0;
+    font-weight: bold;
+    color: white;
+}
+.card-position {
+    position: relative;
+    top: -180px;
+    right: 17px;
+}
